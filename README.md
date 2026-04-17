@@ -64,7 +64,7 @@ ask_me_about:
 | **[professor-wiggum](https://github.com/scottmreed/professor-wiggum)** | Mechanistic curriculum + chemistry/AI harness experiments, skills, and reproducible training lanes. |
 | **[llm-smarts-arena](https://github.com/scottmreed/llm-smarts-arena)** | Public benchmark for LLM reasoning on SMILES, SMARTS, and SMIRKS—tokenization-sensitive chemistry string tasks. |
 | **[chemistry-augmented-generation](https://github.com/scottmreed/chemistry-augmented-generation)** | Code and pipelines behind augmented/programmatic LLM prompts for molecular property-style tasks (e.g. TPSA) with RAG + DSPy. |
-| **[smilestetris](https://github.com/scottmreed/smilestetris)** | **SMILES Tetris**—a Devvit game for Reddit: stack fragments into target patterns; outreach where chemists already are. |
+| **[chem-tetris](https://github.com/scottmreed/chem-tetris)** | **IUPAC Rain**—Discord Activity: ASCII “tetris” with C/O pieces and molecule targets; playful chemistry where people already hang out. |
 | **[ketcher](https://github.com/scottmreed/ketcher)** | My lane in the open-source structure editor ecosystem—integration, UX, and chemistry-first web tooling. |
 
 ## Tools I reach for
