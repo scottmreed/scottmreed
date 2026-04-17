@@ -1,16 +1,23 @@
 <h1 align="center">Scott Reed</h1>
-<h3 align="center">Chemist • Molecular informatics • AI builder • Open source</h3>
+<h3 align="center">Chemist • Teacher • AI engineer • Open sourcerer</h3>
+
+<p align="center">
+  <img src="https://github.com/scottmreed.png" width="200" height="200" alt="Scott Reed" />
+</p>
+
+<p align="center">
+  <em>I teach scientists about AI and I teach AI about science.</em>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Chemistry%20x%20Code%20x%20AI&fontAlignY=40&desc=Tools%20scientists%20actually%20want%20to%20use&descAlignY=65" alt="Banner: Chemistry x Code x AI" />
 </p>
 
 <p align="center">
-  <a href="https://chemillusion.com">ChemIllusion</a> •
+  <a href="https://chemillusion.com">ChemIllusion Founder</a> •
   <a href="https://clas.ucdenver.edu/chemistry/scott-reed">CU Denver faculty</a> •
   <a href="https://scholar.google.com/citations?hl=en&user=f3CHyKEAAAAJ">Google Scholar</a> •
   <a href="https://www.linkedin.com/in/scott-reed-76430499/">LinkedIn</a> •
-  <a href="https://www.instagram.com/chem.illusions/">@chem.illusions</a> •
   <a href="https://github.com/scottmreed?tab=repositories">Repositories</a>
 </p>
 
@@ -25,7 +32,7 @@ focus:
   - open-source chemistry software (RDKit ecosystem, MCP, editors)
 building_now:
   - chemistry-native AI workflows for figures and teaching
-  - Ketcher / RDKit–centric developer tooling
+  - RDKit–centric developer tooling
   - FOSS components that complement ChemIllusion
 ask_me_about:
   - cheminformatics and molecular representations
@@ -35,7 +42,7 @@ ask_me_about:
 ```
 
 <p align="center">
-  <sub>⚗️ <code>SMILES</code> → models → <code>ship()</code> — repeat.</sub>
+  <sub><code>SMILES</code> → models → <code>ship()</code> — repeat.</sub>
 </p>
 
 ## Story at a glance
@@ -47,7 +54,7 @@ ask_me_about:
   </tr>
   <tr>
     <td><b>Open source</b></td>
-    <td>RDKit WASM tooling, MCP apps, Ketcher-related work, and small libraries other builders can adopt without the whole product stack.</td>
+    <td>RDKit WASM tooling, MCP apps, and small libraries other builders can adopt without the whole product stack.</td>
   </tr>
   <tr>
     <td><b>Research + teaching</b></td>
@@ -65,7 +72,6 @@ ask_me_about:
 | **[llm-smarts-arena](https://github.com/scottmreed/llm-smarts-arena)** | Public benchmark for LLM reasoning on SMILES, SMARTS, and SMIRKS—tokenization-sensitive chemistry string tasks. |
 | **[chemistry-augmented-generation](https://github.com/scottmreed/chemistry-augmented-generation)** | Code and pipelines behind augmented/programmatic LLM prompts for molecular property-style tasks (e.g. TPSA) with RAG + DSPy. |
 | **[chem-tetris](https://github.com/scottmreed/chem-tetris)** | **IUPAC Rain**—Discord Activity: ASCII “tetris” with C/O pieces and molecule targets; playful chemistry where people already hang out. |
-| **[ketcher](https://github.com/scottmreed/ketcher)** | My lane in the open-source structure editor ecosystem—integration, UX, and chemistry-first web tooling. |
 
 ## Tools I reach for
 
@@ -83,6 +89,6 @@ I build at the intersection of **chemistry, code, and AI**.
 
 Some of that ships as **ChemIllusion**—product-grade workflows for people who live in structures and spectra.
 
-A lot of it returns to the community as **FOSS**—editors, benchmarks, MCP pieces, and RDKit-first utilities—because good science needs shared ground truth, not just slick demos.
+A lot of it returns to the community as **FOSS**—editors, benchmarks, MCP pieces, and RDKit-first utilities—because good science needs shared ground truth.
 
 If that sounds like your lab or your engineering team, you will probably like the repositories above more than this README.
