@@ -1,0 +1,88 @@
+<h1 align="center">Scott Reed</h1>
+<h3 align="center">Chemist • Molecular informatics • AI builder • Open source</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Chemistry%20x%20Code%20x%20AI&fontAlignY=40&desc=Tools%20scientists%20actually%20want%20to%20use&descAlignY=65" alt="Banner: Chemistry x Code x AI" />
+</p>
+
+<p align="center">
+  <a href="https://chemillusion.com">ChemIllusion</a> •
+  <a href="https://clas.ucdenver.edu/chemistry/scott-reed">CU Denver faculty</a> •
+  <a href="https://scholar.google.com/citations?hl=en&user=f3CHyKEAAAAJ">Google Scholar</a> •
+  <a href="https://www.linkedin.com/in/scott-reed-76430499/">LinkedIn</a> •
+  <a href="https://www.instagram.com/chem.illusions/">@chem.illusions</a> •
+  <a href="https://github.com/scottmreed?tab=repositories">Repositories</a>
+</p>
+
+```yaml
+name: Scott Reed
+role:
+  - Professor of Chemistry, University of Colorado Denver
+  - Founder, ChemIllusion
+focus:
+  - molecular informatics and pharmacogenomics
+  - chemistry-aware AI and scientific communication tools
+  - open-source chemistry software (RDKit ecosystem, MCP, editors)
+building_now:
+  - chemistry-native AI workflows for figures and teaching
+  - Ketcher / RDKit–centric developer tooling
+  - FOSS components that complement ChemIllusion
+ask_me_about:
+  - cheminformatics and molecular representations
+  - RDKit and structure validation at scale
+  - chemical drawing UX and structure editors
+  - benchmarking LLMs on chemical string reasoning
+```
+
+<p align="center">
+  <sub>⚗️ <code>SMILES</code> → models → <code>ship()</code> — repeat.</sub>
+</p>
+
+## Story at a glance
+
+<table>
+  <tr>
+    <td><b>ChemIllusion</b></td>
+    <td>Chemistry-native AI for artistic scientific figures, molecule-aware workflows, and education—structures first, creativity second.</td>
+  </tr>
+  <tr>
+    <td><b>Open source</b></td>
+    <td>RDKit WASM tooling, MCP apps, Ketcher-related work, and small libraries other builders can adopt without the whole product stack.</td>
+  </tr>
+  <tr>
+    <td><b>Research + teaching</b></td>
+    <td>Synthesis to nanoscience, pharmacogenomics, green chemistry, and AI in chemistry—including work on <a href="https://doi.org/10.26434/chemrxiv-2025-rwgt8">reducing chemical hallucinations in LLM workflows</a>.</td>
+  </tr>
+</table>
+
+## Featured repositories
+
+| | |
+| --- | --- |
+| **[ChemCP](https://github.com/scottmreed/ChemCP)** | MCP App: interactive 2D structures from SMILES with RDKit.js—built for assistants that should *show* chemistry, not guess it. |
+| **[rdkit-agent](https://github.com/scottmreed/rdkit-agent)** | Agent-first cheminformatics CLI (Node + RDKit WASM): validate, convert, descriptors, SMARTS, reactions—JSON in, JSON out. |
+| **[professor-wiggum](https://github.com/scottmreed/professor-wiggum)** | Mechanistic curriculum + chemistry/AI harness experiments, skills, and reproducible training lanes. |
+| **[llm-smarts-arena](https://github.com/scottmreed/llm-smarts-arena)** | Public benchmark for LLM reasoning on SMILES, SMARTS, and SMIRKS—tokenization-sensitive chemistry string tasks. |
+| **[chemistry-augmented-generation](https://github.com/scottmreed/chemistry-augmented-generation)** | Code and pipelines behind augmented/programmatic LLM prompts for molecular property-style tasks (e.g. TPSA) with RAG + DSPy. |
+| **[smilestetris](https://github.com/scottmreed/smilestetris)** | **SMILES Tetris**—a Devvit game for Reddit: stack fragments into target patterns; outreach where chemists already are. |
+| **[ketcher](https://github.com/scottmreed/ketcher)** | My lane in the open-source structure editor ecosystem—integration, UX, and chemistry-first web tooling. |
+
+## Tools I reach for
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="RDKit" src="https://img.shields.io/badge/RDKit-cheminformatics-blue?style=for-the-badge" />
+  <img alt="AI for science" src="https://img.shields.io/badge/AI-for%20science-purple?style=for-the-badge" />
+</p>
+
+## Why this profile exists
+
+I build at the intersection of **chemistry, code, and AI**.
+
+Some of that ships as **ChemIllusion**—product-grade workflows for people who live in structures and spectra.
+
+A lot of it returns to the community as **FOSS**—editors, benchmarks, MCP pieces, and RDKit-first utilities—because good science needs shared ground truth, not just slick demos.
+
+If that sounds like your lab or your engineering team, you will probably like the repositories above more than this README.
