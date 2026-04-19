@@ -1,5 +1,5 @@
 <h1 align="center">Scott Reed</h1>
-<h3 align="center">🧪 Chemist • 👨‍🏫 Teacher • 🤖 AI engineer • ✨ Open sourcerer</h3>
+<h3 align="center">🧪 Chemist • 👨‍🏫 Teacher • 🧠 AI engineer • ✨ Open sourcerer</h3>
 
 <p align="center">
   <em>I teach scientists about AI and I teach AI about science.</em>

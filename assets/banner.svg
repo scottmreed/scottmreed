@@ -1,27 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 120" width="920" height="120" role="img" aria-label="Banner: benzene ring, terminal caret, and neural chain. Subtitle: Tools scientists actually want to use.">
-  <rect width="920" height="120" rx="14" fill="#0f172a"/>
-  <g transform="translate(22 26)" fill="none" stroke="#99f6e4" stroke-width="2.2" stroke-linejoin="round" opacity="0.94">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 120" width="920" height="120" role="img" aria-label="Banner: benzene ring and neural chain flanking the tagline 'Tools scientists actually want to use.'">
+  <rect width="920" height="120" rx="14" fill="#134e4a"/>
+  <g transform="translate(26 30)" fill="none" stroke="#99f6e4" stroke-width="2.4" stroke-linejoin="round" opacity="0.96">
     <polygon points="34,6 57.25,19.5 57.25,46.5 34,60 10.75,46.5 10.75,19.5">
       <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
     </polygon>
-    <circle cx="34" cy="33" r="11" stroke="#67e8f9" stroke-width="1.6">
+    <circle cx="34" cy="33" r="11" stroke="#67e8f9" stroke-width="1.8">
       <animate attributeName="stroke-opacity" values="0.55;0.95;0.55" dur="6s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <g transform="translate(382 24)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <text x="0" y="44" fill="#94a3b8" font-size="26" font-weight="600">&gt;</text>
-    <text x="18" y="44" fill="#64748b" font-size="26">_</text>
-    <rect x="44" y="18" width="3" height="30" rx="0.5" fill="#f1f5f9">
-      <animate attributeName="opacity" values="1;0.15;1" dur="1.05s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-  <g transform="translate(820 42)" fill="none" stroke="#fcd34d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+  <g transform="translate(820 50)" fill="none" stroke="#fde68a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.95">
     <line x1="0" y1="10" x2="36" y2="10"/>
     <line x1="36" y1="10" x2="72" y2="10"/>
-    <circle cx="0" cy="10" r="4" fill="#0f172a" stroke="#fde68a" stroke-width="1.5"/>
-    <circle cx="36" cy="10" r="4" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5"/>
-    <circle cx="72" cy="10" r="4" fill="#0f172a" stroke="#fde68a" stroke-width="1.5"/>
+    <circle cx="0" cy="10" r="4.5" fill="#134e4a" stroke="#fde68a" stroke-width="1.8"/>
+    <circle cx="36" cy="10" r="4.5" fill="#134e4a" stroke="#7dd3fc" stroke-width="1.8"/>
+    <circle cx="72" cy="10" r="4.5" fill="#134e4a" stroke="#fde68a" stroke-width="1.8"/>
   </g>
-  <text x="460" y="68" text-anchor="middle" fill="#f8fafc" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="0.02em">Tools scientists actually want to use</text>
-  <text x="460" y="92" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="0.28em">SMILES · MCP · RDKit · TEACHING</text>
+  <rect x="904" y="39" width="3" height="42" rx="0.5" fill="#f0fdfa">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.05s" repeatCount="indefinite"/>
+  </rect>
+  <text x="460" y="58" text-anchor="middle" fill="#f0fdfa" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="0.01em">Tools scientists actually want to use</text>
+  <text x="460" y="88" text-anchor="middle" fill="#a7f3d0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="0.3em">SMILES · MCP · RDKit · TEACHING</text>
 </svg>
