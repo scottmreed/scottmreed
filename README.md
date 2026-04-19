@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://chemillusion.com">ChemIllusion Founder</a> •
-  <a href="https://clas.ucdenver.edu/chemistry/scott-reed">CU Denver faculty</a> •
+  <a href="https://clas.ucdenver.edu/scott-reed/research-overview">CU Denver faculty</a> •
   <a href="https://scholar.google.com/citations?hl=en&user=f3CHyKEAAAAJ">Google Scholar</a> •
   <a href="https://www.linkedin.com/in/scott-reed-76430499/">LinkedIn</a> •
   <a href="https://github.com/scottmreed?tab=repositories">Repositories</a>
@@ -21,20 +21,16 @@
   <img src="assets/profile-card.svg" alt="YAML-style profile card typing on screen" width="720">
 </p>
 
-<p align="center">
-  <sub><code>SMILES</code> → models → <code>ship()</code> — repeat.</sub>
-</p>
-
 ## Story at a glance
 
 <table>
   <tr>
     <td><b>ChemIllusion</b></td>
-    <td>Chemistry-native AI for artistic scientific figures, molecule-aware workflows, and education—structures first, creativity second.</td>
+    <td>Chemistry-native AI for artistic scientific figures, molecule-aware workflows, and education—structures first, creativity second. Try the <a href="https://chemillusion.com/generator?drawingCoachLesson=tool-single-bond">drawing coach</a>.</td>
   </tr>
   <tr>
     <td><b>Open source</b></td>
-    <td>RDKit WASM tooling, MCP apps, and small libraries other builders can adopt without the whole product stack.</td>
+    <td>RDKit WASM tooling, MCP apps (including the <a href="https://chemillusion.com/mcp-server">ChemIllusion MCP server</a>), and small libraries other builders can adopt without the whole product stack.</td>
   </tr>
   <tr>
     <td><b>Research + teaching</b></td>
@@ -47,7 +43,7 @@
 | | |
 | --- | --- |
 | **[ChemCP](https://github.com/scottmreed/ChemCP)** | MCP App: interactive 2D structures from SMILES with RDKit.js—built for assistants that should *show* chemistry, not guess it. |
-| **[rdkit-agent](https://github.com/scottmreed/rdkit-agent)** | Agent-first cheminformatics CLI (Node + RDKit WASM): validate, convert, descriptors, SMARTS, reactions—JSON in, JSON out. |
+| **[rdkit-agent](https://github.com/scottmreed/rdkit-agent)** ([npm](https://www.npmjs.com/package/rdkit-agent)) | Agent-first cheminformatics CLI (Node + RDKit WASM): validate, convert, descriptors, SMARTS, reactions—JSON in, JSON out. |
 | **[professor-wiggum](https://github.com/scottmreed/professor-wiggum)** | Mechanistic curriculum + chemistry/AI harness experiments, skills, and reproducible training lanes. |
 | **[llm-smarts-arena](https://github.com/scottmreed/llm-smarts-arena)** | Public benchmark for LLM reasoning on SMILES, SMARTS, and SMIRKS—tokenization-sensitive chemistry string tasks. |
 | **[chemistry-augmented-generation](https://github.com/scottmreed/chemistry-augmented-generation)** | Code and pipelines behind augmented/programmatic LLM prompts for molecular property-style tasks (e.g. TPSA) with RAG + DSPy. |
